@@ -1,0 +1,4 @@
+interface:
+  display_name: "Goal Luna Orchestrator"
+  short_description: "Use the selected lead model with Luna Max as the main coding worker"
+  default_prompt: "Use $goal-luna-orchestrator for this Goal. Keep my selected model as the lead and delegate substantial implementation work to GPT-5.6 Luna Max."
